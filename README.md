@@ -1,2 +1,4 @@
 # Markdown
-notes for markdown
+These are notes :D<br>
+Notes look really cool<br>
+Notes are also helpful :)
